@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.Resources.resources
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\bin\Debug\Final_Exam.exe.config
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\bin\Debug\Final_Exam.exe
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\bin\Debug\Final_Exam.pdb
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\bin\Debug\Final_Exam.xml
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.exe
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.xml
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.pdb
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.frm_main.resources
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.frm_spearman.resources
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.frm_mean_median_mode.resources
+C:\Users\acer\source\repos\Final_Exam\Final_Exam\obj\Debug\Final_Exam.frm_correlation_coefficient_desc.resources
